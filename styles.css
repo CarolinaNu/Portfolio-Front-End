@@ -1,1 +1,3 @@
-body {font-family: 'Montserrat', sans-serif;}
+body {font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: beige;}
+.redondear{border-radius: 100%;}
+.contenedor{box-sizing: border-box;}
